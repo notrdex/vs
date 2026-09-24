@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/CTA.tsx","./src/components/FAQ.tsx","./src/components/Features.tsx","./src/components/Footer.tsx","./src/components/Hero.tsx","./src/components/HowItWorks.tsx","./src/components/Logos.tsx","./src/components/Navbar.tsx","./src/components/Pricing.tsx","./src/hooks/useScrollReveal.ts"],"version":"5.9.3"}
